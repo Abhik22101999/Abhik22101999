@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhik22101999/Abhik22101999/blob/main/1733932337280.jpeg)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">An aspiring Business Intelligence Analyst from India</h3>
 <img align="right" alt="analyst" width="400" src=https://static.wixstatic.com/media/f8eb0c_a6ce680ecff943df817679a09a99adb9~mv2.gif>
